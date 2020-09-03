@@ -3,7 +3,7 @@
 ## Upcoming
 
 - `apollo`
-  - <First `apollo` related entry goes here>
+  - Accept GitLab remote URLs when fetching git info for service:check and service:push [#2104](https://github.com/apollographql/apollo-tooling/pull/2104)
 - `apollo-codegen-flow`
   - <First `apollo-codegen-flow` related entry goes here>
 - `apollo-codegen-scala`
